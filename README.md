@@ -1,6 +1,7 @@
 # YouTube Downloader
 ![](screenshot.png)
-Welcome to the **YouTube Downloader**! 🚀 With this simple app, you can download your favorite YouTube videos and playlists directly to your computer with just a few clicks! Whether you're looking to save videos in high quality, low quality, or even download just the audio, this tool has got you covered. 🎶📹
+
+I created this simple app so I can download my favorite YouTube videos and playlists directly to your computer with just a few clicks! 🎶📹
 
 ## Features
 
@@ -12,7 +13,7 @@ Welcome to the **YouTube Downloader**! 🚀 With this simple app, you can downlo
 
 ## Requirements
 
-- Python 3.x
+- **Python 3.x**
 - **pytube**.
 - **customtkinter**.
 - **tkinter**.
